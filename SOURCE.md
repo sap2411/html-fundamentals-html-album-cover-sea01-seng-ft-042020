@@ -1,6 +1,6 @@
 <!-- FRONT -->
 
-PHARRELL WILLIAMS
+
 
 HAPPY
 
